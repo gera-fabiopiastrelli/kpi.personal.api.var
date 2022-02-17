@@ -1,0 +1,17 @@
+
+packages/
+
+obj/
+
+bin/
+
+*.suo
+*.user
+*.bak
+*.js.map
+Web.config
+
+app.js
+app/**/*.js
+
+.vs/
